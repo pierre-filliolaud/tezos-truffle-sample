@@ -2,6 +2,12 @@
 
 doc: https://www.trufflesuite.com/docs/tezos/truffle/quickstart
 
+
+## Install tezos node
+Make sure to use node v12.
+    npm install -g truffle@tezos
+    npm install
+
 ## Init
     truffle unbox tezos-example
 
